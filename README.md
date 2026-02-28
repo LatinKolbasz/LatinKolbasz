@@ -19,8 +19,8 @@
 
 <!-- =================== STATS =================== -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LatinKolbasz&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LatinKolbasz&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LatinKolbasz&show_icons=true&theme=radical" alt=""/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LatinKolbasz&theme=radical" alt=""/>
 </p>
 
 <p align="center">
