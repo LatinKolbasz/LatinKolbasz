@@ -41,6 +41,25 @@
 </p>
 
 ---
+<!-- =================== CODE EDITOR / PERSONAL NOTES =================== -->
+<h2 align="center">💾 My Personal Code Editor</h2>
+
+<p align="center">
+  <pre style="background:#1e1e1e; color:#d4d4d4; padding:15px; border-radius:10px; font-family: 'Fira Code', monospace;">
+// Ide írd a személyes dolgaidat
+// Pl: kedvenc projekteim, célok, fun fact-ek
+
+const me = {
+    name: "LatinKolbasz",
+    age: 16
+    likes: ["Moddig", "Coding", "Suffering"],
+    currentProject: "Study-Hub",
+    goals: ["build cool stuff", "learn AI", "dominate GitHub"],
+};
+  </pre>
+</p>
+
+---
 
 <!-- =================== PINNED PROJECT =================== -->
 <h2 align="center">📂 Pinned Project</h2>
