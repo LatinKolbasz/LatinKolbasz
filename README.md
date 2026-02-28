@@ -42,19 +42,16 @@
 
 ---
 <!-- =================== CODE EDITOR / PERSONAL NOTES =================== -->
-<h2 align="center">💾 My Personal Code Editor</h2>
+<h2 align="center">About Me</h2>
 
 <p align="center">
   <pre style="background:#1e1e1e; color:#d4d4d4; padding:15px; border-radius:10px; font-family: 'Fira Code', monospace;">
-// Ide írd a személyes dolgaidat
-// Pl: kedvenc projekteim, célok, fun fact-ek
-
-const me = {
-    name: "LatinKolbasz",
-    age: 16
-    likes: ["Moddig", "Coding", "Suffering"],
-    currentProject: "Study-Hub",
-    goals: ["build cool stuff", "learn AI", "dominate GitHub"],
+  const me = {
+      name: "LatinKolbasz",
+      age: 16
+      likes: ["Moddig", "Coding", "Suffering"],
+      currentProject: "Study-Hub",
+      goals: ["build cool stuff", "learn AI", "dominate GitHub"],
 };
   </pre>
 </p>
