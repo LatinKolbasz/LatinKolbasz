@@ -1,72 +1,60 @@
-<!-- =================== HEADER / INTRO =================== -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LatinKolbasz&style=flat-square&color=blue" alt="Profile views"/>
-</p>
+<!-- ================= HEADER ================= -->
 
-<h1 align="center">🔥 LatinKolbasz 🔥</h1>
 <p align="center">
-  💻 HTML, CSS, JS, Python, Lua | ⚡ Firebase | 🕹 Modder | ☕ Energiaital + 🚬  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=800&lines=LatinKolbasz;Modder+%7C+Developer+%7C+Linux+User;HTML+CSS+JS+Python+Lua;Firebase+%7C+Git+%7C+Bootstrap;Powered+by+Energy+Drink+%E2%98%95+%F0%9F%9A%AC" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/LatinKolbasz">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <!-- Discord majd később -->
+  <img src="https://komarev.com/ghpvc/?username=LatinKolbasz&style=for-the-badge&color=blueviolet"/>
 </p>
 
 ---
 
-<!-- =================== STATS =================== -->
+<!-- ================= STATS ================= -->
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LatinKolbasz&show_icons=true&theme=radical" alt=""/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LatinKolbasz&theme=radical" alt=""/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LatinKolbasz&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LatinKolbasz&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LatinKolbasz&layout=compact&theme=radical" alt=""/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LatinKolbasz&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-<!-- =================== TECH STACK =================== -->
-<h2 align="center">🛠 Tech Stack</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
+<!-- ================= TECH STACK ================= -->
 
----
-<!-- =================== CODE EDITOR / PERSONAL NOTES =================== -->
-<h2 align="center">About Me</h2>
+<h2 align="center">⚡ Tech Arsenal ⚡</h2>
 
 <p align="center">
-  <pre style="background:#1e1e1e; color:#d4d4d4; padding:15px; border-radius:10px; font-family: 'Fira Code', monospace;">
-  const me = {
-      name: "LatinKolbasz",
-      age: 16
-      likes: ["Moddig", "Coding", "Suffering"],
-      currentProject: "Study-Hub",
-      goals: ["build cool stuff", "learn AI", "dominate GitHub"],
-};
-  </pre>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,lua,firebase,git,linux,bootstrap"/>
 </p>
 
 ---
 
-<!-- =================== PINNED PROJECT =================== -->
-<h2 align="center">📂 Pinned Project</h2>
+<!-- ================= SNAKE ANIMATION ================= -->
+
 <p align="center">
-  <a href="https://github.com/LatinKolbasz/Study-Hub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LatinKolbasz&repo=Study-Hub&theme=radical" alt="Study-Hub"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
-</p>
+---
+
+<!-- ================= CODE TERMINAL ================= -->
+
+<h2 align="center">💻 Live Terminal</h2>
+
+```js
+class LatinKolbasz {
+    constructor() {
+        this.skills = ["HTML", "CSS", "JavaScript", "Python", "Lua"];
+        this.stack = ["Firebase", "Git", "Linux", "Bootstrap"];
+        this.currentProject = "Study-Hub";
+        this.powerSource = ["Energy Drink", "Nicotine"];
+    }
+
+    build() {
+        return "Shipping something cool...";
+    }
+}
